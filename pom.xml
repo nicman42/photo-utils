@@ -5,7 +5,7 @@
 
 	<groupId>com.zimmerbell</groupId>
 	<artifactId>photo-utils</artifactId>
-	<version>0.5-SNAPSHOT</version>
+	<version>0.5.1</version>
 	<packaging>jar</packaging>
 
 	<properties>
